@@ -1,0 +1,16 @@
+.searched-movies {
+  background-color: #00050d;
+  min-height: 100vh;
+}
+
+.movies-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.movies-grid {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
